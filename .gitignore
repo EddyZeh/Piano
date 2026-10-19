@@ -1,0 +1,9 @@
+Piano/
+
+.vs/
+
+x64/
+
+*.user
+*.filters
+*vcxproj
